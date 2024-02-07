@@ -1,0 +1,11 @@
+.link {
+    text-decoration: none; /* Removing the underline form a link */
+  }
+  
+  .container {
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 40px;
+    padding-right: 40px;
+  }
+  
